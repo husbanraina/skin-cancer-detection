@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.log
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+ENV/
+env/
+*.env
+
+# MacOS/Windows/Linux specific
+.DS_Store
+Thumbs.db
+
+# Model & dataset (optional, usually big files)
+model/
+data/
+dataset/
+
+# Streamlit
+.streamlit/config.toml
+
+# VSCode / IDE folders
+.vscode/
+.idea/
+
+# Pip
+*.egg-info/
+dist/
+build/
+
+# Other
+*.h5
+*.ckpt
+*.tfrecord
