@@ -20,7 +20,7 @@ env/
 Thumbs.db
 
 # Model & dataset (optional, usually big files)
-model/
+#model/
 data/
 dataset/
 
@@ -37,6 +37,6 @@ dist/
 build/
 
 # Other
-*.h5
+#*.h5
 *.ckpt
 *.tfrecord
